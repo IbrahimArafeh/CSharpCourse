@@ -1,0 +1,8 @@
+C:\Projects\CSharpCourse\ExceptionHandlerAbuse\bin\Debug\ExceptionHandlerAbuse.exe.config
+C:\Projects\CSharpCourse\ExceptionHandlerAbuse\bin\Debug\ExceptionHandlerAbuse.exe
+C:\Projects\CSharpCourse\ExceptionHandlerAbuse\bin\Debug\ExceptionHandlerAbuse.pdb
+C:\Projects\CSharpCourse\ExceptionHandlerAbuse\obj\Debug\ExceptionHandlerAbuse.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\ExceptionHandlerAbuse\obj\Debug\ExceptionHandlerAbuse.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CSharpCourse\ExceptionHandlerAbuse\obj\Debug\ExceptionHandlerAbuse.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\ExceptionHandlerAbuse\obj\Debug\ExceptionHandlerAbuse.exe
+C:\Projects\CSharpCourse\ExceptionHandlerAbuse\obj\Debug\ExceptionHandlerAbuse.pdb

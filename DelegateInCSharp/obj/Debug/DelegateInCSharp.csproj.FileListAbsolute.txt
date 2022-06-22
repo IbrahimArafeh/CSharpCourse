@@ -1,0 +1,8 @@
+C:\Projects\CSharpCourse\DelegateInCSharp\bin\Debug\DelegateInCSharp.exe.config
+C:\Projects\CSharpCourse\DelegateInCSharp\bin\Debug\DelegateInCSharp.exe
+C:\Projects\CSharpCourse\DelegateInCSharp\bin\Debug\DelegateInCSharp.pdb
+C:\Projects\CSharpCourse\DelegateInCSharp\obj\Debug\DelegateInCSharp.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\DelegateInCSharp\obj\Debug\DelegateInCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CSharpCourse\DelegateInCSharp\obj\Debug\DelegateInCSharp.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\DelegateInCSharp\obj\Debug\DelegateInCSharp.exe
+C:\Projects\CSharpCourse\DelegateInCSharp\obj\Debug\DelegateInCSharp.pdb

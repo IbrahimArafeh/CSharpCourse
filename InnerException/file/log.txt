@@ -1,0 +1,2 @@
+DivideByZeroException
+Attempted to divide by zero.

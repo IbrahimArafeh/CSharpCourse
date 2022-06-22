@@ -1,0 +1,14 @@
+1- create database with Books table   				  --> done
+2- link database from C# using console applications using ADO.NET --> done
+3- dispaly the title and Author of the book on Command prompt     -->  done
+4- insert new product into table using ado.net  	          --> done
+5- search about product by typing any letter from name of product --> done
+
+
+6- find any book has a name 
+7- update product name.
+8- detete product
+9- disply count of products
+10-make the  Ado.net into class library to multiple use
+11- make new table with name gategory to relate product with 
+gatergory type

@@ -1,0 +1,8 @@
+C:\Projects\CSharpCourse\OverrideEqualMethod\bin\Debug\OverrideEqualMethod.exe.config
+C:\Projects\CSharpCourse\OverrideEqualMethod\bin\Debug\OverrideEqualMethod.exe
+C:\Projects\CSharpCourse\OverrideEqualMethod\bin\Debug\OverrideEqualMethod.pdb
+C:\Projects\CSharpCourse\OverrideEqualMethod\obj\Debug\OverrideEqualMethod.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\OverrideEqualMethod\obj\Debug\OverrideEqualMethod.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CSharpCourse\OverrideEqualMethod\obj\Debug\OverrideEqualMethod.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\OverrideEqualMethod\obj\Debug\OverrideEqualMethod.exe
+C:\Projects\CSharpCourse\OverrideEqualMethod\obj\Debug\OverrideEqualMethod.pdb

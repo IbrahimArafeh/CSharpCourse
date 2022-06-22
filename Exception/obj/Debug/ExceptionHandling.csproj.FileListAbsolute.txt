@@ -1,0 +1,8 @@
+C:\Projects\CSharpCourse\Exception\bin\Debug\Exception.exe.config
+C:\Projects\CSharpCourse\Exception\bin\Debug\Exception.exe
+C:\Projects\CSharpCourse\Exception\bin\Debug\Exception.pdb
+C:\Projects\CSharpCourse\Exception\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\Exception\obj\Debug\ExceptionHandling.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CSharpCourse\Exception\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\Exception\obj\Debug\Exception.exe
+C:\Projects\CSharpCourse\Exception\obj\Debug\Exception.pdb

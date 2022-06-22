@@ -1,0 +1,8 @@
+C:\Projects\CSharpCourse\UnhandlerExcption\bin\Debug\UnhandlerExcption.exe.config
+C:\Projects\CSharpCourse\UnhandlerExcption\bin\Debug\UnhandlerExcption.exe
+C:\Projects\CSharpCourse\UnhandlerExcption\bin\Debug\UnhandlerExcption.pdb
+C:\Projects\CSharpCourse\UnhandlerExcption\obj\Debug\UnhandlerExcption.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\UnhandlerExcption\obj\Debug\UnhandlerExcption.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CSharpCourse\UnhandlerExcption\obj\Debug\UnhandlerExcption.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\UnhandlerExcption\obj\Debug\UnhandlerExcption.exe
+C:\Projects\CSharpCourse\UnhandlerExcption\obj\Debug\UnhandlerExcption.pdb

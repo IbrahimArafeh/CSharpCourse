@@ -1,0 +1,16 @@
+C:\Projects\CSharpCourse\Session1\bin\Debug\net5.0\Session1.exe
+C:\Projects\CSharpCourse\Session1\bin\Debug\net5.0\Session1.deps.json
+C:\Projects\CSharpCourse\Session1\bin\Debug\net5.0\Session1.runtimeconfig.json
+C:\Projects\CSharpCourse\Session1\bin\Debug\net5.0\Session1.runtimeconfig.dev.json
+C:\Projects\CSharpCourse\Session1\bin\Debug\net5.0\Session1.dll
+C:\Projects\CSharpCourse\Session1\bin\Debug\net5.0\Session1.pdb
+C:\Projects\CSharpCourse\Session1\obj\Debug\net5.0\Session1.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\Session1\obj\Debug\net5.0\Session1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharpCourse\Session1\obj\Debug\net5.0\Session1.AssemblyInfoInputs.cache
+C:\Projects\CSharpCourse\Session1\obj\Debug\net5.0\Session1.AssemblyInfo.cs
+C:\Projects\CSharpCourse\Session1\obj\Debug\net5.0\Session1.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\Session1\obj\Debug\net5.0\Session1.dll
+C:\Projects\CSharpCourse\Session1\obj\Debug\net5.0\refint\Session1.dll
+C:\Projects\CSharpCourse\Session1\obj\Debug\net5.0\Session1.pdb
+C:\Projects\CSharpCourse\Session1\obj\Debug\net5.0\Session1.genruntimeconfig.cache
+C:\Projects\CSharpCourse\Session1\obj\Debug\net5.0\ref\Session1.dll

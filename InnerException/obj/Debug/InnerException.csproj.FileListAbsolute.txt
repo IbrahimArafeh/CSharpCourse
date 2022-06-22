@@ -1,0 +1,8 @@
+C:\Projects\CSharpCourse\InnerException\bin\Debug\InnerException.exe.config
+C:\Projects\CSharpCourse\InnerException\bin\Debug\InnerException.exe
+C:\Projects\CSharpCourse\InnerException\bin\Debug\InnerException.pdb
+C:\Projects\CSharpCourse\InnerException\obj\Debug\InnerException.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\InnerException\obj\Debug\InnerException.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CSharpCourse\InnerException\obj\Debug\InnerException.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\InnerException\obj\Debug\InnerException.exe
+C:\Projects\CSharpCourse\InnerException\obj\Debug\InnerException.pdb

@@ -1,0 +1,8 @@
+C:\Projects\CSharpCourse\CustomException\bin\Debug\CustomException.exe.config
+C:\Projects\CSharpCourse\CustomException\bin\Debug\CustomException.exe
+C:\Projects\CSharpCourse\CustomException\bin\Debug\CustomException.pdb
+C:\Projects\CSharpCourse\CustomException\obj\Debug\CustomException.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\CustomException\obj\Debug\CustomException.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CSharpCourse\CustomException\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\CustomException\obj\Debug\CustomException.exe
+C:\Projects\CSharpCourse\CustomException\obj\Debug\CustomException.pdb

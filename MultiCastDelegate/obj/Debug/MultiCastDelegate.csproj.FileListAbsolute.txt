@@ -1,0 +1,8 @@
+C:\Projects\CSharpCourse\MultiCastDelegate\bin\Debug\MultiCastDelegate.exe.config
+C:\Projects\CSharpCourse\MultiCastDelegate\bin\Debug\MultiCastDelegate.exe
+C:\Projects\CSharpCourse\MultiCastDelegate\bin\Debug\MultiCastDelegate.pdb
+C:\Projects\CSharpCourse\MultiCastDelegate\obj\Debug\MultiCastDelegate.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\MultiCastDelegate\obj\Debug\MultiCastDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CSharpCourse\MultiCastDelegate\obj\Debug\MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\MultiCastDelegate\obj\Debug\MultiCastDelegate.exe
+C:\Projects\CSharpCourse\MultiCastDelegate\obj\Debug\MultiCastDelegate.pdb

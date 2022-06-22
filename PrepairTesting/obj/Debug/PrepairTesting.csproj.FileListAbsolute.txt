@@ -1,0 +1,8 @@
+C:\Projects\CSharpCourse\PrepairTesting\bin\Debug\PrepairTesting.exe.config
+C:\Projects\CSharpCourse\PrepairTesting\bin\Debug\PrepairTesting.exe
+C:\Projects\CSharpCourse\PrepairTesting\bin\Debug\PrepairTesting.pdb
+C:\Projects\CSharpCourse\PrepairTesting\obj\Debug\PrepairTesting.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\PrepairTesting\obj\Debug\PrepairTesting.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CSharpCourse\PrepairTesting\obj\Debug\PrepairTesting.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\PrepairTesting\obj\Debug\PrepairTesting.exe
+C:\Projects\CSharpCourse\PrepairTesting\obj\Debug\PrepairTesting.pdb

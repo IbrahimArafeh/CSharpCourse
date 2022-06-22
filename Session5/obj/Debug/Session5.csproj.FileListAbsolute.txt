@@ -1,0 +1,13 @@
+C:\Projects\CSharpCourse\Session5\bin\Debug\Session5.exe.config
+C:\Projects\CSharpCourse\Session5\bin\Debug\Session5.exe
+C:\Projects\CSharpCourse\Session5\bin\Debug\Session5.pdb
+C:\Projects\CSharpCourse\Session5\bin\Debug\EntityFramework.dll
+C:\Projects\CSharpCourse\Session5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\CSharpCourse\Session5\bin\Debug\EntityFramework.xml
+C:\Projects\CSharpCourse\Session5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\CSharpCourse\Session5\obj\Debug\Session5.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\Session5\obj\Debug\Session5.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CSharpCourse\Session5\obj\Debug\Session5.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\Session5\obj\Debug\Session5.csproj.CopyComplete
+C:\Projects\CSharpCourse\Session5\obj\Debug\Session5.exe
+C:\Projects\CSharpCourse\Session5\obj\Debug\Session5.pdb
