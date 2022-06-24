@@ -10,12 +10,16 @@
         "projectUniqueName": "C:\\Projects\\CSharpCourse\\Session2\\Session2.csproj",
         "projectName": "Session2",
         "projectPath": "C:\\Projects\\CSharpCourse\\Session2\\Session2.csproj",
-        "packagesPath": "C:\\Users\\IbrahimAhmadArafeh\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\I.A\\.nuget\\packages\\",
         "outputPath": "C:\\Projects\\CSharpCourse\\Session2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\IbrahimAhmadArafeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\I.A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
