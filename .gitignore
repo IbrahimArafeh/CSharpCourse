@@ -1,0 +1,9 @@
+.vs
+*.v2
+*.vsidx
+*.v1
+.suo
+
+*.v2
+.vs/CSharpCourse/v17/.suo
+*.v1
