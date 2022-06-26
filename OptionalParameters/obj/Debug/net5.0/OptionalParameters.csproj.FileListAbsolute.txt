@@ -1,0 +1,16 @@
+C:\Projects\CSharpCourse\OptionalParameters\bin\Debug\net5.0\OptionalParameters.exe
+C:\Projects\CSharpCourse\OptionalParameters\bin\Debug\net5.0\OptionalParameters.deps.json
+C:\Projects\CSharpCourse\OptionalParameters\bin\Debug\net5.0\OptionalParameters.runtimeconfig.json
+C:\Projects\CSharpCourse\OptionalParameters\bin\Debug\net5.0\OptionalParameters.runtimeconfig.dev.json
+C:\Projects\CSharpCourse\OptionalParameters\bin\Debug\net5.0\OptionalParameters.dll
+C:\Projects\CSharpCourse\OptionalParameters\bin\Debug\net5.0\OptionalParameters.pdb
+C:\Projects\CSharpCourse\OptionalParameters\obj\Debug\net5.0\OptionalParameters.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\OptionalParameters\obj\Debug\net5.0\OptionalParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharpCourse\OptionalParameters\obj\Debug\net5.0\OptionalParameters.AssemblyInfoInputs.cache
+C:\Projects\CSharpCourse\OptionalParameters\obj\Debug\net5.0\OptionalParameters.AssemblyInfo.cs
+C:\Projects\CSharpCourse\OptionalParameters\obj\Debug\net5.0\OptionalParameters.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\OptionalParameters\obj\Debug\net5.0\OptionalParameters.dll
+C:\Projects\CSharpCourse\OptionalParameters\obj\Debug\net5.0\refint\OptionalParameters.dll
+C:\Projects\CSharpCourse\OptionalParameters\obj\Debug\net5.0\OptionalParameters.pdb
+C:\Projects\CSharpCourse\OptionalParameters\obj\Debug\net5.0\OptionalParameters.genruntimeconfig.cache
+C:\Projects\CSharpCourse\OptionalParameters\obj\Debug\net5.0\ref\OptionalParameters.dll
