@@ -1,0 +1,16 @@
+C:\Projects\CSharpCourse\MethodOptionalParamerters\bin\Debug\net5.0\MethodOptionalParamerters.exe
+C:\Projects\CSharpCourse\MethodOptionalParamerters\bin\Debug\net5.0\MethodOptionalParamerters.deps.json
+C:\Projects\CSharpCourse\MethodOptionalParamerters\bin\Debug\net5.0\MethodOptionalParamerters.runtimeconfig.json
+C:\Projects\CSharpCourse\MethodOptionalParamerters\bin\Debug\net5.0\MethodOptionalParamerters.runtimeconfig.dev.json
+C:\Projects\CSharpCourse\MethodOptionalParamerters\bin\Debug\net5.0\MethodOptionalParamerters.dll
+C:\Projects\CSharpCourse\MethodOptionalParamerters\bin\Debug\net5.0\MethodOptionalParamerters.pdb
+C:\Projects\CSharpCourse\MethodOptionalParamerters\obj\Debug\net5.0\MethodOptionalParamerters.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\MethodOptionalParamerters\obj\Debug\net5.0\MethodOptionalParamerters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharpCourse\MethodOptionalParamerters\obj\Debug\net5.0\MethodOptionalParamerters.AssemblyInfoInputs.cache
+C:\Projects\CSharpCourse\MethodOptionalParamerters\obj\Debug\net5.0\MethodOptionalParamerters.AssemblyInfo.cs
+C:\Projects\CSharpCourse\MethodOptionalParamerters\obj\Debug\net5.0\MethodOptionalParamerters.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\MethodOptionalParamerters\obj\Debug\net5.0\MethodOptionalParamerters.dll
+C:\Projects\CSharpCourse\MethodOptionalParamerters\obj\Debug\net5.0\refint\MethodOptionalParamerters.dll
+C:\Projects\CSharpCourse\MethodOptionalParamerters\obj\Debug\net5.0\MethodOptionalParamerters.pdb
+C:\Projects\CSharpCourse\MethodOptionalParamerters\obj\Debug\net5.0\MethodOptionalParamerters.genruntimeconfig.cache
+C:\Projects\CSharpCourse\MethodOptionalParamerters\obj\Debug\net5.0\ref\MethodOptionalParamerters.dll

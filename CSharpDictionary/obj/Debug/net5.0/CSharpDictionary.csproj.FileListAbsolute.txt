@@ -1,0 +1,16 @@
+C:\Projects\CSharpCourse\CSharpDictionary\obj\Debug\net5.0\CSharpDictionary.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\CSharpDictionary\obj\Debug\net5.0\CSharpDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharpCourse\CSharpDictionary\obj\Debug\net5.0\CSharpDictionary.AssemblyInfoInputs.cache
+C:\Projects\CSharpCourse\CSharpDictionary\obj\Debug\net5.0\CSharpDictionary.AssemblyInfo.cs
+C:\Projects\CSharpCourse\CSharpDictionary\obj\Debug\net5.0\CSharpDictionary.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\CSharpDictionary\bin\Debug\net5.0\CSharpDictionary.exe
+C:\Projects\CSharpCourse\CSharpDictionary\bin\Debug\net5.0\CSharpDictionary.deps.json
+C:\Projects\CSharpCourse\CSharpDictionary\bin\Debug\net5.0\CSharpDictionary.runtimeconfig.json
+C:\Projects\CSharpCourse\CSharpDictionary\bin\Debug\net5.0\CSharpDictionary.runtimeconfig.dev.json
+C:\Projects\CSharpCourse\CSharpDictionary\bin\Debug\net5.0\CSharpDictionary.dll
+C:\Projects\CSharpCourse\CSharpDictionary\bin\Debug\net5.0\CSharpDictionary.pdb
+C:\Projects\CSharpCourse\CSharpDictionary\obj\Debug\net5.0\CSharpDictionary.dll
+C:\Projects\CSharpCourse\CSharpDictionary\obj\Debug\net5.0\refint\CSharpDictionary.dll
+C:\Projects\CSharpCourse\CSharpDictionary\obj\Debug\net5.0\CSharpDictionary.pdb
+C:\Projects\CSharpCourse\CSharpDictionary\obj\Debug\net5.0\CSharpDictionary.genruntimeconfig.cache
+C:\Projects\CSharpCourse\CSharpDictionary\obj\Debug\net5.0\ref\CSharpDictionary.dll
