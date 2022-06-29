@@ -45,9 +45,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptionalParameters", "Optio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverloadingMethod", "OverloadingMethod\OverloadingMethod.csproj", "{E520F088-9168-4B1B-A194-08DD22F1EEE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOptionalParamerters", "MethodOptionalParamerters\MethodOptionalParamerters.csproj", "{60C8285C-5BCA-4B00-9C2B-7BB0A13F4379}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOptionalParamerters", "MethodOptionalParamerters\MethodOptionalParamerters.csproj", "{60C8285C-5BCA-4B00-9C2B-7BB0A13F4379}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpDictionary", "CSharpDictionary\CSharpDictionary.csproj", "{C7FF4666-F331-448B-9691-4DBFED748DBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpDictionary", "CSharpDictionary\CSharpDictionary.csproj", "{C7FF4666-F331-448B-9691-4DBFED748DBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpList", "CsharpList\CsharpList.csproj", "{339C87CB-7DAD-499A-B948-2524BD7254C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{C7FF4666-F331-448B-9691-4DBFED748DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7FF4666-F331-448B-9691-4DBFED748DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7FF4666-F331-448B-9691-4DBFED748DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{339C87CB-7DAD-499A-B948-2524BD7254C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339C87CB-7DAD-499A-B948-2524BD7254C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339C87CB-7DAD-499A-B948-2524BD7254C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339C87CB-7DAD-499A-B948-2524BD7254C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

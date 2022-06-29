@@ -1,0 +1,16 @@
+C:\Projects\CSharpCourse\CsharpList\bin\Debug\net5.0\CsharpList.exe
+C:\Projects\CSharpCourse\CsharpList\bin\Debug\net5.0\CsharpList.deps.json
+C:\Projects\CSharpCourse\CsharpList\bin\Debug\net5.0\CsharpList.runtimeconfig.json
+C:\Projects\CSharpCourse\CsharpList\bin\Debug\net5.0\CsharpList.runtimeconfig.dev.json
+C:\Projects\CSharpCourse\CsharpList\bin\Debug\net5.0\CsharpList.dll
+C:\Projects\CSharpCourse\CsharpList\bin\Debug\net5.0\CsharpList.pdb
+C:\Projects\CSharpCourse\CsharpList\obj\Debug\net5.0\CsharpList.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\CsharpList\obj\Debug\net5.0\CsharpList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharpCourse\CsharpList\obj\Debug\net5.0\CsharpList.AssemblyInfoInputs.cache
+C:\Projects\CSharpCourse\CsharpList\obj\Debug\net5.0\CsharpList.AssemblyInfo.cs
+C:\Projects\CSharpCourse\CsharpList\obj\Debug\net5.0\CsharpList.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\CsharpList\obj\Debug\net5.0\CsharpList.dll
+C:\Projects\CSharpCourse\CsharpList\obj\Debug\net5.0\refint\CsharpList.dll
+C:\Projects\CSharpCourse\CsharpList\obj\Debug\net5.0\CsharpList.pdb
+C:\Projects\CSharpCourse\CsharpList\obj\Debug\net5.0\CsharpList.genruntimeconfig.cache
+C:\Projects\CSharpCourse\CsharpList\obj\Debug\net5.0\ref\CsharpList.dll
