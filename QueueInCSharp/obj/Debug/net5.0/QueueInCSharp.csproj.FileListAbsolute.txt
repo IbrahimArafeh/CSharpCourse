@@ -1,0 +1,16 @@
+C:\Projects\CSharpCourse\QueueInCSharp\bin\Debug\net5.0\QueueInCSharp.exe
+C:\Projects\CSharpCourse\QueueInCSharp\bin\Debug\net5.0\QueueInCSharp.deps.json
+C:\Projects\CSharpCourse\QueueInCSharp\bin\Debug\net5.0\QueueInCSharp.runtimeconfig.json
+C:\Projects\CSharpCourse\QueueInCSharp\bin\Debug\net5.0\QueueInCSharp.runtimeconfig.dev.json
+C:\Projects\CSharpCourse\QueueInCSharp\bin\Debug\net5.0\QueueInCSharp.dll
+C:\Projects\CSharpCourse\QueueInCSharp\bin\Debug\net5.0\QueueInCSharp.pdb
+C:\Projects\CSharpCourse\QueueInCSharp\obj\Debug\net5.0\QueueInCSharp.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\QueueInCSharp\obj\Debug\net5.0\QueueInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharpCourse\QueueInCSharp\obj\Debug\net5.0\QueueInCSharp.AssemblyInfoInputs.cache
+C:\Projects\CSharpCourse\QueueInCSharp\obj\Debug\net5.0\QueueInCSharp.AssemblyInfo.cs
+C:\Projects\CSharpCourse\QueueInCSharp\obj\Debug\net5.0\QueueInCSharp.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\QueueInCSharp\obj\Debug\net5.0\QueueInCSharp.dll
+C:\Projects\CSharpCourse\QueueInCSharp\obj\Debug\net5.0\refint\QueueInCSharp.dll
+C:\Projects\CSharpCourse\QueueInCSharp\obj\Debug\net5.0\QueueInCSharp.pdb
+C:\Projects\CSharpCourse\QueueInCSharp\obj\Debug\net5.0\QueueInCSharp.genruntimeconfig.cache
+C:\Projects\CSharpCourse\QueueInCSharp\obj\Debug\net5.0\ref\QueueInCSharp.dll
