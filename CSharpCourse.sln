@@ -39,6 +39,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClass", "PartialClas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexing", "Indexing\Indexing.csproj", "{4EC53447-940D-4BA0-BBE8-D1FAF1CE6FB7}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadingIndexing", "OverloadingIndexing\OverloadingIndexing.csproj", "{222FA42B-CC38-499D-9A7C-F916267B68D7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptionalParameters", "OptionalParameters\OptionalParameters.csproj", "{BEF30901-C085-463F-85CA-54B0A71A9F6A}"
@@ -50,6 +51,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpDictionary", "CSharpDictionary\CSharpDictionary.csproj", "{C7FF4666-F331-448B-9691-4DBFED748DBE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpList", "CsharpList\CsharpList.csproj", "{339C87CB-7DAD-499A-B948-2524BD7254C6}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListSortinUsingComparsion", "ListSortinUsingComparsion\ListSortinUsingComparsion.csproj", "{F33E30B4-0DBB-4FD2-BD64-08DA940B5D34}"
+>>>>>>> origin/SortingListUsingComparsion
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,7 @@ Global
 		{4EC53447-940D-4BA0-BBE8-D1FAF1CE6FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EC53447-940D-4BA0-BBE8-D1FAF1CE6FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EC53447-940D-4BA0-BBE8-D1FAF1CE6FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{222FA42B-CC38-499D-9A7C-F916267B68D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{222FA42B-CC38-499D-9A7C-F916267B68D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{222FA42B-CC38-499D-9A7C-F916267B68D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -153,6 +158,12 @@ Global
 		{339C87CB-7DAD-499A-B948-2524BD7254C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{339C87CB-7DAD-499A-B948-2524BD7254C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{339C87CB-7DAD-499A-B948-2524BD7254C6}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{F33E30B4-0DBB-4FD2-BD64-08DA940B5D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33E30B4-0DBB-4FD2-BD64-08DA940B5D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33E30B4-0DBB-4FD2-BD64-08DA940B5D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33E30B4-0DBB-4FD2-BD64-08DA940B5D34}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> origin/SortingListUsingComparsion
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+C:\Projects\CSharpCourse\ListSortinUsingComparsion\bin\Debug\ListSortinUsingComparsion.exe.config
+C:\Projects\CSharpCourse\ListSortinUsingComparsion\bin\Debug\ListSortinUsingComparsion.exe
+C:\Projects\CSharpCourse\ListSortinUsingComparsion\bin\Debug\ListSortinUsingComparsion.pdb
+C:\Projects\CSharpCourse\ListSortinUsingComparsion\obj\Debug\ListSortinUsingComparsion.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\ListSortinUsingComparsion\obj\Debug\ListSortinUsingComparsion.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CSharpCourse\ListSortinUsingComparsion\obj\Debug\ListSortinUsingComparsion.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\ListSortinUsingComparsion\obj\Debug\ListSortinUsingComparsion.exe
+C:\Projects\CSharpCourse\ListSortinUsingComparsion\obj\Debug\ListSortinUsingComparsion.pdb
