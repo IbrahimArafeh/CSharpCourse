@@ -44,6 +44,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadingIndexing", "Over
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptionalParameters", "OptionalParameters\OptionalParameters.csproj", "{BEF30901-C085-463F-85CA-54B0A71A9F6A}"
 EndProject
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverloadingMethod", "OverloadingMethod\OverloadingMethod.csproj", "{E520F088-9168-4B1B-A194-08DD22F1EEE3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOptionalParamerters", "MethodOptionalParamerters\MethodOptionalParamerters.csproj", "{60C8285C-5BCA-4B00-9C2B-7BB0A13F4379}"
@@ -54,6 +55,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpList", "CsharpList\Cs
 =======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListSortinUsingComparsion", "ListSortinUsingComparsion\ListSortinUsingComparsion.csproj", "{F33E30B4-0DBB-4FD2-BD64-08DA940B5D34}"
 >>>>>>> origin/SortingListUsingComparsion
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryOverList", "DictionaryOverList\DictionaryOverList.csproj", "{985EABF0-AD7B-4C60-AC7F-F47B63049A53}"
+>>>>>>> origin/UseDictionaryOverList
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -142,6 +146,7 @@ Global
 		{BEF30901-C085-463F-85CA-54B0A71A9F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEF30901-C085-463F-85CA-54B0A71A9F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEF30901-C085-463F-85CA-54B0A71A9F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{E520F088-9168-4B1B-A194-08DD22F1EEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E520F088-9168-4B1B-A194-08DD22F1EEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E520F088-9168-4B1B-A194-08DD22F1EEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -164,6 +169,12 @@ Global
 		{F33E30B4-0DBB-4FD2-BD64-08DA940B5D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F33E30B4-0DBB-4FD2-BD64-08DA940B5D34}.Release|Any CPU.Build.0 = Release|Any CPU
 >>>>>>> origin/SortingListUsingComparsion
+=======
+		{985EABF0-AD7B-4C60-AC7F-F47B63049A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985EABF0-AD7B-4C60-AC7F-F47B63049A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985EABF0-AD7B-4C60-AC7F-F47B63049A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985EABF0-AD7B-4C60-AC7F-F47B63049A53}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> origin/UseDictionaryOverList
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

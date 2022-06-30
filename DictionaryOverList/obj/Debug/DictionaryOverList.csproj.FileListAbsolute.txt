@@ -1,0 +1,8 @@
+C:\Projects\CSharpCourse\DictionaryOverList\bin\Debug\DictionaryOverList.exe.config
+C:\Projects\CSharpCourse\DictionaryOverList\bin\Debug\DictionaryOverList.exe
+C:\Projects\CSharpCourse\DictionaryOverList\bin\Debug\DictionaryOverList.pdb
+C:\Projects\CSharpCourse\DictionaryOverList\obj\Debug\DictionaryOverList.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\DictionaryOverList\obj\Debug\DictionaryOverList.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CSharpCourse\DictionaryOverList\obj\Debug\DictionaryOverList.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\DictionaryOverList\obj\Debug\DictionaryOverList.exe
+C:\Projects\CSharpCourse\DictionaryOverList\obj\Debug\DictionaryOverList.pdb
