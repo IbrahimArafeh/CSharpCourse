@@ -1,0 +1,16 @@
+C:\Projects\CSharpCourse\StackListGeneric\bin\Debug\net5.0\StackListGeneric.exe
+C:\Projects\CSharpCourse\StackListGeneric\bin\Debug\net5.0\StackListGeneric.deps.json
+C:\Projects\CSharpCourse\StackListGeneric\bin\Debug\net5.0\StackListGeneric.runtimeconfig.json
+C:\Projects\CSharpCourse\StackListGeneric\bin\Debug\net5.0\StackListGeneric.runtimeconfig.dev.json
+C:\Projects\CSharpCourse\StackListGeneric\bin\Debug\net5.0\StackListGeneric.dll
+C:\Projects\CSharpCourse\StackListGeneric\bin\Debug\net5.0\StackListGeneric.pdb
+C:\Projects\CSharpCourse\StackListGeneric\obj\Debug\net5.0\StackListGeneric.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\StackListGeneric\obj\Debug\net5.0\StackListGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharpCourse\StackListGeneric\obj\Debug\net5.0\StackListGeneric.AssemblyInfoInputs.cache
+C:\Projects\CSharpCourse\StackListGeneric\obj\Debug\net5.0\StackListGeneric.AssemblyInfo.cs
+C:\Projects\CSharpCourse\StackListGeneric\obj\Debug\net5.0\StackListGeneric.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\StackListGeneric\obj\Debug\net5.0\StackListGeneric.dll
+C:\Projects\CSharpCourse\StackListGeneric\obj\Debug\net5.0\refint\StackListGeneric.dll
+C:\Projects\CSharpCourse\StackListGeneric\obj\Debug\net5.0\StackListGeneric.pdb
+C:\Projects\CSharpCourse\StackListGeneric\obj\Debug\net5.0\StackListGeneric.genruntimeconfig.cache
+C:\Projects\CSharpCourse\StackListGeneric\obj\Debug\net5.0\ref\StackListGeneric.dll
