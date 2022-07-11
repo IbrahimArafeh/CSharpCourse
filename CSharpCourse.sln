@@ -57,9 +57,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryOverList", "Dicti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueInCSharp", "QueueInCSharp\QueueInCSharp.csproj", "{F7942A8B-CD43-4154-91D5-42A846ACEDE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackListGeneric", "StackListGeneric\StackListGeneric.csproj", "{0F17406D-CF85-4065-94B4-F062A536EB54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackListGeneric", "StackListGeneric\StackListGeneric.csproj", "{0F17406D-CF85-4065-94B4-F062A536EB54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueSystem", "QueueSystem\QueueSystem.csproj", "{54E366D1-6E17-4543-A272-0F5B9FA3E733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackSystemExample", "StackSystemExample\StackSystemExample.csproj", "{B8FA9F02-BD0D-4DC0-96FB-3A02B26373F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{54E366D1-6E17-4543-A272-0F5B9FA3E733}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54E366D1-6E17-4543-A272-0F5B9FA3E733}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54E366D1-6E17-4543-A272-0F5B9FA3E733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FA9F02-BD0D-4DC0-96FB-3A02B26373F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FA9F02-BD0D-4DC0-96FB-3A02B26373F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FA9F02-BD0D-4DC0-96FB-3A02B26373F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FA9F02-BD0D-4DC0-96FB-3A02B26373F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
