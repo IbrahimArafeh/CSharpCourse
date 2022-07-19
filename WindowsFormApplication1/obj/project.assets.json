@@ -454,8 +454,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\I.A\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\IbrahimAhmadArafeh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -463,16 +462,12 @@
       "projectUniqueName": "C:\\Projects\\CSharpCourse\\WindowsFormApplication1\\WindowsFormApplication1.csproj",
       "projectName": "WindowsFormApplication1",
       "projectPath": "C:\\Projects\\CSharpCourse\\WindowsFormApplication1\\WindowsFormApplication1.csproj",
-      "packagesPath": "C:\\Users\\I.A\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\IbrahimAhmadArafeh\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\CSharpCourse\\WindowsFormApplication1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\I.A\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\IbrahimAhmadArafeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0-windows7.0"
@@ -520,7 +515,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

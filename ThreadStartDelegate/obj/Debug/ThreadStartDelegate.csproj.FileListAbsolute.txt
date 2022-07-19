@@ -1,0 +1,8 @@
+C:\Projects\CSharpCourse\ThreadStartDelegate\obj\Debug\ThreadStartDelegate.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\ThreadStartDelegate\obj\Debug\ThreadStartDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CSharpCourse\ThreadStartDelegate\obj\Debug\ThreadStartDelegate.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\ThreadStartDelegate\bin\Debug\ThreadStartDelegate.exe.config
+C:\Projects\CSharpCourse\ThreadStartDelegate\bin\Debug\ThreadStartDelegate.exe
+C:\Projects\CSharpCourse\ThreadStartDelegate\bin\Debug\ThreadStartDelegate.pdb
+C:\Projects\CSharpCourse\ThreadStartDelegate\obj\Debug\ThreadStartDelegate.exe
+C:\Projects\CSharpCourse\ThreadStartDelegate\obj\Debug\ThreadStartDelegate.pdb
