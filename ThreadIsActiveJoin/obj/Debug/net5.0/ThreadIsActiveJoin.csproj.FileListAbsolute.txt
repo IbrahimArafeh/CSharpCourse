@@ -1,0 +1,16 @@
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\bin\Debug\net5.0\ThreadIsActiveJoin.exe
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\bin\Debug\net5.0\ThreadIsActiveJoin.deps.json
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\bin\Debug\net5.0\ThreadIsActiveJoin.runtimeconfig.json
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\bin\Debug\net5.0\ThreadIsActiveJoin.runtimeconfig.dev.json
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\bin\Debug\net5.0\ThreadIsActiveJoin.dll
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\bin\Debug\net5.0\ThreadIsActiveJoin.pdb
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\obj\Debug\net5.0\ThreadIsActiveJoin.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\obj\Debug\net5.0\ThreadIsActiveJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\obj\Debug\net5.0\ThreadIsActiveJoin.AssemblyInfoInputs.cache
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\obj\Debug\net5.0\ThreadIsActiveJoin.AssemblyInfo.cs
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\obj\Debug\net5.0\ThreadIsActiveJoin.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\obj\Debug\net5.0\ThreadIsActiveJoin.dll
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\obj\Debug\net5.0\refint\ThreadIsActiveJoin.dll
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\obj\Debug\net5.0\ThreadIsActiveJoin.pdb
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\obj\Debug\net5.0\ThreadIsActiveJoin.genruntimeconfig.cache
+C:\Projects\CSharpCourse\ThreadIsActiveJoin\obj\Debug\net5.0\ref\ThreadIsActiveJoin.dll
