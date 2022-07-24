@@ -1,0 +1,16 @@
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\bin\Debug\net5.0\ThreadUsingSafeManner.exe
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\bin\Debug\net5.0\ThreadUsingSafeManner.deps.json
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\bin\Debug\net5.0\ThreadUsingSafeManner.runtimeconfig.json
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\bin\Debug\net5.0\ThreadUsingSafeManner.runtimeconfig.dev.json
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\bin\Debug\net5.0\ThreadUsingSafeManner.dll
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\bin\Debug\net5.0\ThreadUsingSafeManner.pdb
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\obj\Debug\net5.0\ThreadUsingSafeManner.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\obj\Debug\net5.0\ThreadUsingSafeManner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\obj\Debug\net5.0\ThreadUsingSafeManner.AssemblyInfoInputs.cache
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\obj\Debug\net5.0\ThreadUsingSafeManner.AssemblyInfo.cs
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\obj\Debug\net5.0\ThreadUsingSafeManner.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\obj\Debug\net5.0\ThreadUsingSafeManner.dll
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\obj\Debug\net5.0\refint\ThreadUsingSafeManner.dll
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\obj\Debug\net5.0\ThreadUsingSafeManner.pdb
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\obj\Debug\net5.0\ThreadUsingSafeManner.genruntimeconfig.cache
+C:\Projects\CSharpCourse\ThreadUsingSafeManner\obj\Debug\net5.0\ref\ThreadUsingSafeManner.dll

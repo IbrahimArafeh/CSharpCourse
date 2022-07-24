@@ -1,0 +1,16 @@
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\bin\Debug\net5.0\RetrievingDataUsingCallBackMethod.exe
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\bin\Debug\net5.0\RetrievingDataUsingCallBackMethod.deps.json
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\bin\Debug\net5.0\RetrievingDataUsingCallBackMethod.runtimeconfig.json
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\bin\Debug\net5.0\RetrievingDataUsingCallBackMethod.runtimeconfig.dev.json
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\bin\Debug\net5.0\RetrievingDataUsingCallBackMethod.dll
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\bin\Debug\net5.0\RetrievingDataUsingCallBackMethod.pdb
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\obj\Debug\net5.0\RetrievingDataUsingCallBackMethod.csproj.AssemblyReference.cache
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\obj\Debug\net5.0\RetrievingDataUsingCallBackMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\obj\Debug\net5.0\RetrievingDataUsingCallBackMethod.AssemblyInfoInputs.cache
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\obj\Debug\net5.0\RetrievingDataUsingCallBackMethod.AssemblyInfo.cs
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\obj\Debug\net5.0\RetrievingDataUsingCallBackMethod.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\obj\Debug\net5.0\RetrievingDataUsingCallBackMethod.dll
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\obj\Debug\net5.0\refint\RetrievingDataUsingCallBackMethod.dll
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\obj\Debug\net5.0\RetrievingDataUsingCallBackMethod.pdb
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\obj\Debug\net5.0\RetrievingDataUsingCallBackMethod.genruntimeconfig.cache
+C:\Projects\CSharpCourse\RetrievingDataUsingCallBackMethod\obj\Debug\net5.0\ref\RetrievingDataUsingCallBackMethod.dll
